@@ -8,6 +8,7 @@ import QUERY_PARAMS from 'utils/constants/query-params';
 import STATIC_MOVIE_CATEGORIES from 'utils/constants/static-movie-categories';
 
 const Logo = () => (
+  
   <>
     <Link
       href={{
@@ -19,13 +20,13 @@ const Logo = () => (
       }}>
       <a>
         <picture>
-          <source srcSet={LOGO_IMAGE_PATH} media='(min-width: 80em)' />
-          <img
-            className='logo-img'
-            width='150'
-            height='150'
+          {/* <source srcSet={LOGO_IMAGE_PATH} media='(min-width: 80em)' /> */}
+          {/* <img
+            className='MOVIE RECOMMENDATION AND SOCIAL FEED'
+            width='550'
+            height='550'
             src=''
-            alt='movie ticket' />
+            alt='MOVIE RECOMMENDATION AND SOCIAL FEED' /> */}
         </picture>
       </a>
     </Link>

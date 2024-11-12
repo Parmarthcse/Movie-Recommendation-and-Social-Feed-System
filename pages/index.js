@@ -12,6 +12,7 @@ import Router, { useRouter } from 'next/router';
 import { useDispatch, useSelector } from 'react-redux';
 import { animateScroll as scroll } from 'react-scroll';
 
+
 import Header from 'parts/Header';
 import PageWrapper from 'parts/PageWrapper';
 import PaddingWrapper from 'parts/PaddingWrapper';
@@ -120,6 +121,7 @@ const Home = () => {
             <MovieList
               movies={movies}
               baseUrl={baseUrl} />
+              
           </PaddingWrapper>
         </PageWrapper>
       )}
