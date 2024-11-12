@@ -5,7 +5,7 @@ This is a Movies App built using Next.js, React and [The Movie Database (TMDB)](
 
 ## Demo
 
-A [live deployment](https://movies.zaps.dev) of this app is available to try it out.
+A [live deployment] of this app is available to try it out.
 
 ## Contributing
 
@@ -18,7 +18,7 @@ For large changes, please file an issue to discuss your proposed changes with us
 Clone and install the dependencies for `next-movies` locally:
 
 ```bash 
-  git clone https://github.com/tastejs/next-movies.git
+
   cd next-movies 
   npm install
 ```
@@ -64,11 +64,9 @@ In most cases, we strongly recommend using the [next/image](https://nextjs.org/d
   
 ## Authors
 
-- [@anton-karlovskiy](https://github.com/anton-karlovskiy)
-- [@addyosmani](https://github.com/addyosmani)
 
-Based on the original `create-react-app` foundation by [@fidalgodev](https://github.com/fidalgodev/movie-library-react).
+
+
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
