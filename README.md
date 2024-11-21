@@ -3,10 +3,6 @@
 
 This is a Movies App built using Next.js, React and [The Movie Database (TMDB)](https://www.themoviedb.org/) API. 
 
-## Demo
-
-A [live deployment] of this app is available to try it out.
-
 ## Contributing
 
 Contributions are always welcome! 
